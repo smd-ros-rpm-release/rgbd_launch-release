@@ -2,6 +2,11 @@
 Changelog for package rgbd_launch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.1.0 (2014-05-05)
+------------------
+* Revert "Add machine parameter". closes `#5 <https://github.com/ros-drivers/rgbd_launch/issues/5>`_
+* Contributors: Piyush Khandelwal
+
 2.0.1 (2013-09-06)
 ------------------
 * Merge pull request `#2 <https://github.com/ros-drivers/rgbd_launch/issues/2>`_ - added machine parameter to launch nodelet manager on a remote machine.
