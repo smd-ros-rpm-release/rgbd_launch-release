@@ -1,3 +1,22 @@
+## rgbd_launch (indigo) - 2.1.0-0
+
+The packages in the `rgbd_launch` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo rgbd_launch --edit` on `Mon, 05 May 2014 18:39:49 -0000`
+
+The `rgbd_launch` package was released.
+
+Version of package(s) in repository `rgbd_launch`:
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.1.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.4`
+- catkin_pkg version: `0.2.1`
+- rosdep version: `0.10.27`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.33`
+
+
 ## rgbd_launch - 2.0.1-0
 
 User `piyushk@robot-devil` released the packages in the `rgbd_launch` repository by running `/usr/bin/bloom-release --track hydro --ros-distro hydro rgbd_launch` on `Fri, 06 Sep 2013 21:05:02 -0000`
